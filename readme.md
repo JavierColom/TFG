@@ -1,3 +1,6 @@
+Modelos:
+https://drive.google.com/drive/folders/1DR6gskd38USEi_4p2tYyMOl7KwC9NSoy?usp=sharing
+
 Videos del funcionamiento:<br /><br />
 Segundo modelo: Object detection (I):<br />
 https://www.youtube.com/watch?v=S-ntL1EA24A<br /><br />
